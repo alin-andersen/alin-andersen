@@ -1,4 +1,4 @@
-[Cover](https://raw.githubusercontent.com/alin-andersen/alin-andersen/main/Assets/Cover04.jpg)
+![Cover](Assets/Cover04.jpg?raw=true)
 
 # Hej there! 👋😋
 
