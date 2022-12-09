@@ -1,4 +1,4 @@
-[Cover](https://github.com/alin-andersen/alin-andersen/Assets/Cover04.jpg)
+[Cover](https://raw.githubusercontent.com/alin-andersen/alin-andersen/main/Assets/Cover04.jpg)
 
 # Hej there! 👋😋
 
@@ -12,7 +12,7 @@ Still not found your dreams? Go and see the [place](https://alin.space) where dr
 
 Collection of public AlinSpace libraries:
 
-[AlinSpace.Exceptions](https://github.com/alin-andersen/AlinSpace.Exceptions), [AlinSpace.Arguments](https://github.com/alin-andersen/AlinSpace.Arguments), [AlinSpace.Returns](https://github.com/alin-andersen/AlinSpace.Returns), [AlinSpace.Commands](https://github.com/alin-andersen/AlinSpace.Commands), [AlinSpace.Database.EfCore](https://github.com/alin-andersen/AlinSpace.Database.EfCore), [AlinSpace.Linux](https://github.com/alin-andersen/AlinSpace.Linux) and [many more](https://github.com/onixion/AlinSpace.Libraries/).
+[AlinSpace.Exceptions](https://github.com/alin-andersen/AlinSpace.Exceptions), [AlinSpace.Arguments](https://github.com/alin-andersen/AlinSpace.Arguments), [AlinSpace.Returns](https://github.com/alin-andersen/AlinSpace.Returns), [AlinSpace.Commands](https://github.com/alin-andersen/AlinSpace.Commands), [AlinSpace.Database.EfCore](https://github.com/alin-andersen/AlinSpace.Database.EfCore), [AlinSpace.Linux](https://github.com/alin-andersen/AlinSpace.Linux) and [many more](https://github.com/alin-andersen/AlinSpace.Libraries/).
 
 ## ⚡ .NET Applications
 
