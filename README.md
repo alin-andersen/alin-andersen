@@ -14,7 +14,7 @@ Collection of public AlinSpace libraries:
 
 - [AlinSpace.Exceptions](https://github.com/alin-andersen/AlinSpace.Exceptions)
 - [AlinSpace.Arguments](https://github.com/alin-andersen/AlinSpace.Arguments)
-- [AlinSpace.Returns](https://github.com/alin-andersen/AlinSpace.Optionals)
+- [AlinSpace.Optionals](https://github.com/alin-andersen/AlinSpace.Optionals)
 - [AlinSpace.Commands](https://github.com/alin-andersen/AlinSpace.Commands)
 - [AlinSpace.Database.EfCore](https://github.com/alin-andersen/AlinSpace.Database.EfCore)
 - [AlinSpace.Linux](https://github.com/alin-andersen/AlinSpace.Linux) 
